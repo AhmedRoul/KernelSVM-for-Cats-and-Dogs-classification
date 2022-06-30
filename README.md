@@ -7,7 +7,8 @@ Solve the dog-cat classification problem from Kaggle
 2-Use 1000 cat images and 1000 dog images for training and 100 cat images and 100 dog images for testing
 2-Extract the features of the training set using HOG.
 </h3>
-![image](https://user-images.githubusercontent.com/64781251/176630538-214a8933-aef8-465b-ad5a-bb44e8a9aec2.png)
+Resize_img =resize(img,(128.64))
+
 ![image](https://user-images.githubusercontent.com/64781251/176630321-49e0917b-c750-4997-9835-cf6abc63032a.png)
 
 
