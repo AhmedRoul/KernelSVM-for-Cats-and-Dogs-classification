@@ -1,0 +1,7 @@
+
+Accuracy Polynomial Kernel:Test  72.27
+Accuracy Polynomial Kernel:train   100.00
+Accuracy rbf Kernel       :train  100.00
+Accuracy rbf Kernel       : Test 47.73
+Accuracy sigmoid Kernel   :  67.73 Test
+Accuracy sigmoid Kernel   :  67.73 Train
